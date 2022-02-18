@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luluperrin3@gmail.com
+	name = Lucas Perrin
